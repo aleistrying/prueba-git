@@ -1,0 +1,14 @@
+:root {
+  color-scheme: dark;
+  font-family: system-ui, sans-serif;
+  background: #0b1020;
+  color: #edf2ff;
+}
+
+body { margin: 0; }
+main { width: min(900px, 88vw); margin: 12vh auto; }
+.eyebrow { color: #8ba4ff; text-transform: uppercase; letter-spacing: .14em; }
+h1 { font-size: clamp(2.5rem, 8vw, 5rem); margin: .2em 0; }
+#team { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 1rem; margin-top: 3rem; }
+article { padding: 1rem; border: 1px solid #2d3a64; border-radius: 14px; background: #121a30; }
+article h2 { margin-top: 0; }
