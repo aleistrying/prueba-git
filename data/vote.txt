@@ -1,5 +1,1 @@
-<<<<<< cambios-alejandro
-The best programming language Javascript
-======= 
 The best programming language for our next project is: PHP y los hombres
->>>>> carlos
